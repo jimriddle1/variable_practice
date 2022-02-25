@@ -9,3 +9,7 @@ weight = 145
 bank_account = 0.45
 height_feet = 5.9
 perscription = 0.25
+
+lights_on = true
+is_hungry = false
+is_happy = true
